@@ -16,7 +16,7 @@ int lengthOfLongestSubstring(char * s){
         else{
             char *tmp = head;
             while(head!=tail){
-                map[*head]=0;
+                map[*head] = 0;
                 head++;
             }
             head = tmp+1;
