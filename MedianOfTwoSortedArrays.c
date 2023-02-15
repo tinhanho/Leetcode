@@ -8,7 +8,7 @@ int *merge(int *nums1, int *nums2, int s1, int s2){
     if(s2 == 0) flag1 = 1;
     int size = s1 + s2;
     int *new = malloc(sizeof(int)*(size));
-
+    
     for(int i=0; i<=size-1; i++){
         if(flag1==1){
             new[i] = nums1[ct1];
@@ -41,12 +41,10 @@ int *merge(int *nums1, int *nums2, int s1, int s2){
 double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Size){
     int *new = merge(nums1, nums2, nums1Size, nums2Size);
     int size = nums1Size + nums2Size;
-//    for(int i=0; i<=size-1; i++) printf("%d ", new[i]);
     double res;
     if(size%2 == 0){
-        double tmp1 = new[size/2 - 1];
-        double tmp2 = new[size/2];
-        res = (tmp1 + tmp2)/2;
+        double tmp = new[size/2 - 1] + new[size/2];
+        res = tmp/2;
     }
     else res = new[size/2];
     return res;
