@@ -9,3 +9,5 @@
 5. [Longest Palindromic Substring](https://github.com/tinhanho/Leetcode/blob/main/LongestPalindromicSubstring.c)
 6. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) Don't know why dislikes is 2 times bigger than likes, so I decide not to try it LUL XD 
 7. [Reverse Integer](https://github.com/tinhanho/Leetcode/blob/main/ReverseInteger.c)
+8. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) So many dislikes, thus I dislikes it as well.
+9. 
