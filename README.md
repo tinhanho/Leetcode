@@ -12,5 +12,3 @@
 8. [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) Not finished
 9. 
 
-
-本文瀏覽次數: <script type="text/javascript" language="Javascript" src="/article_counter.php"></script>
