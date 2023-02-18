@@ -1,5 +1,6 @@
 # Leetcode
 Just leedcode practice
+[可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)
 
 1. [Two Sum](https://github.com/tinhanho/Leetcode/blob/main/TwoSum.c)
 2. [Add Two Numbers](https://github.com/tinhanho/Leetcode/blob/main/AddTwoNumbers.c)
