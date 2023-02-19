@@ -2,10 +2,6 @@
 Just leedcode practice<br>
 [可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)<br>
 [わたしの一番かわいいところ](https://tinhanho.github.io/Leetcode/ichibankawaii.html)<br>
-<iframe src="https://tinhanho.github.io/Leetcode/silence.mp3" allow="autoplay" style="display:none" id="iframeAudio"> </iframe> 
-<audio id="player" autoplay loop>
-    <source src="https://tinhanho.github.io/Leetcode/ichibankawaii.mp3" type="audio/mp3">
-</audio>
 
 1. [Two Sum](https://github.com/tinhanho/Leetcode/blob/main/TwoSum.c)
 2. [Add Two Numbers](https://github.com/tinhanho/Leetcode/blob/main/AddTwoNumbers.c)
