@@ -1,5 +1,5 @@
-<font size="6">Leetcode</font>
-<hr>
+# Leetcode
+
 Just leedcode practice<br>
 [可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)<br>
 [わたしの一番かわいいところ](https://tinhanho.github.io/Leetcode/ichibankawaii.html)<br>
