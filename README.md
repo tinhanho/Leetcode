@@ -2,7 +2,7 @@
 Just leedcode practice<br>
 [可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)<br>
 [わたしの一番かわいいところ](https://tinhanho.github.io/Leetcode/ichibankawaii.html)<br>
-<video width="32" height="24" controls autoplay="autoplay" name="media">
+<video width="320" height="48" controls autoplay="autoplay" name="media">
     <source src="https://tinhanho.github.io/Leetcode/ichibankawaii.mp3" type="audio/mp3">
 </video>
 1. [Two Sum](https://github.com/tinhanho/Leetcode/blob/main/TwoSum.c)
