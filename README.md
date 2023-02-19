@@ -1,6 +1,6 @@
 # Leetcode
-<font size="3">Just leedcode practice</font><br>
-[可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)<br>
+Just leedcode practice
+[可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)
 [わたしの一番かわいいところ](https://tinhanho.github.io/Leetcode/ichibankawaii.html)
 
 1. [Two Sum](https://github.com/tinhanho/Leetcode/blob/main/TwoSum.c)
