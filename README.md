@@ -5,7 +5,7 @@ Just leedcode practice<br>
 <video width="320" height="48" controls autoplay="autoplay" name="media">
     <source src="https://tinhanho.github.io/Leetcode/ichibankawaii.mp3" type="audio/mp3">
 </video>
-<hr size="1">
+<br>
 1. [Two Sum](https://github.com/tinhanho/Leetcode/blob/main/TwoSum.c)
 2. [Add Two Numbers](https://github.com/tinhanho/Leetcode/blob/main/AddTwoNumbers.c)
 3. [Longest Substring Without Repeating Characters](https://github.com/tinhanho/Leetcode/blob/main/LongestSubstringWithoutRepeatingCharacters.c)
