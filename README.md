@@ -2,7 +2,7 @@
 Just leedcode practice<br>
 [可愛いくてごめん](https://tinhanho.github.io/Leetcode/kawaikutegomen.html)<br>
 [わたしの一番かわいいところ](https://tinhanho.github.io/Leetcode/ichibankawaii.html)<br>
-<iframe width="221" height="124" src="https://www.youtube.com/embed/NQUo3vITjgY?autoplay=1" title="【MV】FRUITS ZIPPER「わたしの一番かわいいところ-Watashino Ichiban Kawaii Tokoro」Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+<iframe width="221" height="124" src="https://www.youtube.com/embed/NQUo3vITjgY?autoplay=1" title="【MV】FRUITS ZIPPER「わたしの一番かわいいところ-Watashino Ichiban Kawaii Tokoro」Official Music Video" frameborder="0" allow="autoplay"> </iframe>
 
 1. [Two Sum](https://github.com/tinhanho/Leetcode/blob/main/TwoSum.c)
 2. [Add Two Numbers](https://github.com/tinhanho/Leetcode/blob/main/AddTwoNumbers.c)
