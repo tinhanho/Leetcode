@@ -1,4 +1,4 @@
-/*Strategy: Use two pointers, moving 1 each time and take the most value*/
+/*Strategy:Greedy algorithm, use two pointers, cacaulating the value, moving 1 each time and take the most value*/
 int min(int *x, int *y){
     if(*x<=*y) return *x;
     else return *y;
