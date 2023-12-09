@@ -27,4 +27,7 @@ Just leedcode practice<br>
 19. []
 20. [Valid Parentheses](https://github.com/tinhanho/Leetcode/blob/main/ValidParentheses.c)
 21. [Merge Two Sorted Lists](https://github.com/tinhanho/Leetcode/blob/main/MergeTwoSortedLists.c)
+
 112. [Path Sum](https://github.com/tinhanho/Leetcode/blob/main/PathSum.c)
+
+2095. [Delete the Middle Node of a Linked List](https://github.com/tinhanho/Leetcode/blob/main/DeleteTheMiddleNodeOfALinkedList.c)
